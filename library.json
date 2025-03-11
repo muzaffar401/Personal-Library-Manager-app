@@ -1,20 +1,65 @@
 [
-{
-    "id": "938",
-    "title": "Mastering English Communication",
-    "author": "Muzaffar Ahmed",
-    "year": 2015,
-    "genre": "Language & Communication",
-    "content": "This book provides a comprehensive guide to mastering English grammar, vocabulary, and effective communication skills for professional and academic settings.",
-    "read": false
-},
-{
-    "id": "133",
-    "title": "Advanced Business Strategies",
-    "author": "Muzaffar Ahmed",
-    "year": 2020,
-    "genre": "Business & Management",
-    "content": "This book explores modern business strategies, market analysis, and leadership principles to help professionals and entrepreneurs succeed in competitive industries.",
-    "read": true
-}
+    {
+        "id": "938",
+        "title": "Mastering English Communication",
+        "author": "Muzaffar Ahmed",
+        "year": 2015,
+        "genre": "Language & Communication",
+        "content": "This book provides a comprehensive guide to mastering English grammar, vocabulary, and effective communication skills for professional and academic settings.",
+        "read": false
+    },
+    {
+        "id": "133",
+        "title": "Advanced Business Strategies",
+        "author": "Muzaffar Ahmed",
+        "year": 2020,
+        "genre": "Business & Management",
+        "content": "This book explores modern business strategies, market analysis, and leadership principles to help professionals and entrepreneurs succeed in competitive industries.",
+        "read": true
+    },
+    {
+        "id": "512",
+        "title": "Artificial Intelligence Fundamentals",
+        "author": "Muzaffar Ahmed",
+        "year": 2022,
+        "genre": "Technology & AI",
+        "content": "A beginner-friendly guide covering AI concepts, machine learning, deep learning, and real-world applications to help readers understand the impact of artificial intelligence.",
+        "read": false
+    },
+    {
+        "id": "274",
+        "title": "The Power of Habits",
+        "author": "Muzaffar Ahmed",
+        "year": 2018,
+        "genre": "Self-Development",
+        "content": "This book delves into how habits shape our lives, the science behind habit formation, and how to cultivate productive habits for personal and professional success.",
+        "read": true
+    },
+    {
+        "id": "784",
+        "title": "Web Development with Next.js",
+        "author": "Muzaffar Ahmed",
+        "year": 2023,
+        "genre": "Technology & Web Development",
+        "content": "A practical guide to building modern web applications using Next.js, covering server-side rendering, API routes, and best practices for scalable web development.",
+        "read": false
+    },
+    {
+        "id": "358",
+        "title": "Data Science for Beginners",
+        "author": "Muzaffar Ahmed",
+        "year": 2021,
+        "genre": "Data Science",
+        "content": "An introductory book on data science, including data analysis, visualization techniques, machine learning models, and real-world case studies.",
+        "read": false
+    },
+    {
+        "id": "629",
+        "title": "Leadership in the Digital Age",
+        "author": "Muzaffar Ahmed",
+        "year": 2019,
+        "genre": "Business & Leadership",
+        "content": "Explores leadership strategies for navigating digital transformation, managing remote teams, and fostering innovation in the fast-changing business landscape.",
+        "read": true
+    }
 ]
