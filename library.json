@@ -1,20 +1,20 @@
 [
-    {
-        "id": "938",
-        "title": "english",
-        "author": "muzaffar",
-        "year": 2015,
-        "genre": "12",
-        "content": "my name is muzaffar",
-        "read": false
-    },
-    {
-        "id": "787",
-        "title": "physics",
-        "author": "bilal",
-        "year": 3000,
-        "genre": "13",
-        "content": "muzaffar ahmed",
-        "read": true
-    }
+{
+    "id": "938",
+    "title": "Mastering English Communication",
+    "author": "Muzaffar Ahmed",
+    "year": 2015,
+    "genre": "Language & Communication",
+    "content": "This book provides a comprehensive guide to mastering English grammar, vocabulary, and effective communication skills for professional and academic settings.",
+    "read": false
+},
+{
+    "id": "133",
+    "title": "Advanced Business Strategies",
+    "author": "Muzaffar Ahmed",
+    "year": 2020,
+    "genre": "Business & Management",
+    "content": "This book explores modern business strategies, market analysis, and leadership principles to help professionals and entrepreneurs succeed in competitive industries.",
+    "read": true
+}
 ]
